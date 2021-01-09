@@ -1,0 +1,74 @@
+
+
+.root{
+    color: rgb(221, 219, 213);
+    font-family: Salsa;
+}
+img{
+    width: 300px;
+    height: 300px;
+    padding: 1%;
+}
+img:hover{
+    border-radius: 20%;
+    transition: 0.5s;
+}
+
+.gallery{
+    width: 80%;
+    margin: auto;
+}
+
+.hi{
+    padding: 2%;
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+
+.contact{
+    width: 40%;
+    margin: auto;
+    opacity: 0.7;
+    text-align: center;
+    color: rgb(34, 30, 30);
+
+}
+
+#txt{
+    margin: 20px;
+}
+
+.fiverr{
+    width: 40%;
+    margin: auto;
+    opacity: 0.8;
+    color: rgb(34, 30, 30);
+    /* text-align: center; */
+}
+.card-header{
+    text-align: center;
+}
+
+.or{
+    padding: 2%;
+    text-align: center;
+}
+
+.breadcrumb a{
+    text-decoration: none;
+    font-size: 1.5em;
+    color: rgb(221, 219, 213);
+}
+
+.tree{
+text-align: center;}
+
+
+footer{
+    width: 40%;
+    bottom: 0;
+    margin: auto;
+    margin-top: 5%;
+    text-align: center;
+}
